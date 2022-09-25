@@ -1,0 +1,16 @@
+One of the most revered places on earth, Kauai inspires a state of awe within all of us. Brimming with beauty, the oldest inhabitable Hawaiian island has both withstood the test of time and matured into a land of fertile abundance.  Lush jungles, white sand beaches and the alluring ambiance of aloha enchant each moment. Offering exceptional accommodations, adventures, cuisine and culture, vacationing on Kauai is a dream come true.
+
+To: "One of most revered places on earth, Kauai inspires state of awe. Lush jungles, white sand beaches and alluring ambiance
+
+
+host_neighborhood: -0.042150
+latitude: 0.037213
+longitude: -0.011337
+room_type: 0.067354
+accommodates: 0.187289
+bedrooms: 0.182465
+beds: 0.174694
+price: 1.0000000
+number_of_reviews: -0.088279
+review_scores_rating: -0.018990
+review_scores_accuracy: -0.015590
